@@ -6,6 +6,9 @@
             "email": "brian@zick.io"
         }
     ],
+    "autoload": {
+        "psr-4": {"": "src/"}
+    },
     "require": {
         "php": "^5.6"
     }
